@@ -1,0 +1,7 @@
+theia@theiadocker-strydomlouis:/home/project/final_project$ python3 -m unittest test_emotion_detection -v
+test_emotion_detector (test_emotion_detection.TestEmotionDetection) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.707s
+
+OK
